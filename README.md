@@ -1,4 +1,4 @@
-<a href='https://www.codewars.com/users/@Dron/badges/large'>
+https://www.codewars.com/users/@Dron/badges/large
 <p align="center">
 <a href="https://github.com/Dron404)h">
 <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Dron404&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
