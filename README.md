@@ -1,5 +1,3 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Node.js+developer)](https://git.io/typing-svg)
-
 ![This is an image](https://www.codewars.com/users/@Dron/badges/small)
 
 <p>
@@ -11,8 +9,9 @@
 
 <!--
 **Dron404/Dron404** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Dron404&&label=Profile%20views&color=0e75b6&style=flat" alt="pantaiz" /> </p> - profile viwes
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Node.js+developer)](https://git.io/typing-svg)
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
