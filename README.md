@@ -1,4 +1,4 @@
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Node.js+developer)](https://git.io/typing-svg)
 ![This is an image](https://www.codewars.com/users/@Dron/badges/small)
 <p>
 <a href="https://github.com/Dron404)h">
